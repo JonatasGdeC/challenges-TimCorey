@@ -1,0 +1,11 @@
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\bin\Debug\CopyObjectsUI.exe.config
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\bin\Debug\CopyObjectsUI.exe
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\bin\Debug\CopyObjectsUI.pdb
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\obj\Debug\CopyObjectsUI.csprojAssemblyReference.cache
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\obj\Debug\CopyObjectsUI.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\obj\Debug\CopyObjectsUI.csproj.CopyComplete
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\obj\Debug\CopyObjectsUI.exe
+C:\Users\me\source\repos\CopyObjectsApplication\CopyObjectsUI\obj\Debug\CopyObjectsUI.pdb
