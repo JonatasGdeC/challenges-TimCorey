@@ -1,0 +1,14 @@
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\bin\Debug\net8.0\ForeachChallenge.exe
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\bin\Debug\net8.0\ForeachChallenge.deps.json
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\bin\Debug\net8.0\ForeachChallenge.runtimeconfig.json
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\bin\Debug\net8.0\ForeachChallenge.dll
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\bin\Debug\net8.0\ForeachChallenge.pdb
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ForeachChallenge.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ForeachChallenge.AssemblyInfoInputs.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ForeachChallenge.AssemblyInfo.cs
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ForeachChallenge.csproj.CoreCompileInputs.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ForeachChallenge.dll
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\refint\ForeachChallenge.dll
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ForeachChallenge.pdb
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ForeachChallenge.genruntimeconfig.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\ForeachChallenge\ForeachChallenge\obj\Debug\net8.0\ref\ForeachChallenge.dll
