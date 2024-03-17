@@ -1,0 +1,14 @@
+C:\Users\me\source\repos\BirthdayChallengeSolution\BirthdayChallenge\bin\Debug\BirthdayChallenge.exe.config
+C:\Users\me\source\repos\BirthdayChallengeSolution\BirthdayChallenge\bin\Debug\BirthdayChallenge.exe
+C:\Users\me\source\repos\BirthdayChallengeSolution\BirthdayChallenge\bin\Debug\BirthdayChallenge.pdb
+C:\Users\me\source\repos\BirthdayChallengeSolution\BirthdayChallenge\obj\Debug\BirthdayChallenge.csprojAssemblyReference.cache
+C:\Users\me\source\repos\BirthdayChallengeSolution\BirthdayChallenge\obj\Debug\BirthdayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\BirthdayChallengeSolution\BirthdayChallenge\obj\Debug\BirthdayChallenge.exe
+C:\Users\me\source\repos\BirthdayChallengeSolution\BirthdayChallenge\obj\Debug\BirthdayChallenge.pdb
+G:\Bitcube\Cursos\C# Basics\Challenges\BirthdaySolutionSourceCode\BirthdayChallenge\bin\Debug\BirthdayChallenge.exe.config
+G:\Bitcube\Cursos\C# Basics\Challenges\BirthdaySolutionSourceCode\BirthdayChallenge\bin\Debug\BirthdayChallenge.exe
+G:\Bitcube\Cursos\C# Basics\Challenges\BirthdaySolutionSourceCode\BirthdayChallenge\bin\Debug\BirthdayChallenge.pdb
+G:\Bitcube\Cursos\C# Basics\Challenges\BirthdaySolutionSourceCode\BirthdayChallenge\obj\Debug\BirthdayChallenge.csproj.AssemblyReference.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\BirthdaySolutionSourceCode\BirthdayChallenge\obj\Debug\BirthdayChallenge.csproj.CoreCompileInputs.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\BirthdaySolutionSourceCode\BirthdayChallenge\obj\Debug\BirthdayChallenge.exe
+G:\Bitcube\Cursos\C# Basics\Challenges\BirthdaySolutionSourceCode\BirthdayChallenge\obj\Debug\BirthdayChallenge.pdb
