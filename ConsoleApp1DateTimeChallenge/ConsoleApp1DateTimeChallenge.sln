@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1DateTimeChallenge", "ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge.csproj", "{62A60A01-4E34-46D3-B571-4BDC26F2157C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A60A01-4E34-46D3-B571-4BDC26F2157C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A60A01-4E34-46D3-B571-4BDC26F2157C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A60A01-4E34-46D3-B571-4BDC26F2157C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A60A01-4E34-46D3-B571-4BDC26F2157C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEC9E4C-E992-45EB-B4FC-A50215B4AFC3}
+	EndGlobalSection
+EndGlobal

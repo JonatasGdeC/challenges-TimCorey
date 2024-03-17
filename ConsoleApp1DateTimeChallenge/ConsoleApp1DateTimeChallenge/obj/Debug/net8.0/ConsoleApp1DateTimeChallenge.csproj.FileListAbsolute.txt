@@ -1,0 +1,14 @@
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\bin\Debug\net8.0\ConsoleApp1DateTimeChallenge.exe
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\bin\Debug\net8.0\ConsoleApp1DateTimeChallenge.deps.json
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\bin\Debug\net8.0\ConsoleApp1DateTimeChallenge.runtimeconfig.json
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\bin\Debug\net8.0\ConsoleApp1DateTimeChallenge.dll
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\bin\Debug\net8.0\ConsoleApp1DateTimeChallenge.pdb
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ConsoleApp1DateTimeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ConsoleApp1DateTimeChallenge.AssemblyInfoInputs.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ConsoleApp1DateTimeChallenge.AssemblyInfo.cs
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ConsoleApp1DateTimeChallenge.csproj.CoreCompileInputs.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ConsoleApp1DateTimeChallenge.dll
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\refint\ConsoleApp1DateTimeChallenge.dll
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ConsoleApp1DateTimeChallenge.pdb
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ConsoleApp1DateTimeChallenge.genruntimeconfig.cache
+G:\Bitcube\Cursos\C# Basics\Challenges\ConsoleApp1DateTimeChallenge\ConsoleApp1DateTimeChallenge\obj\Debug\net8.0\ref\ConsoleApp1DateTimeChallenge.dll
